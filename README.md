@@ -7,7 +7,7 @@ _a repository for click tracks and other rehearsal support materials_
 2. Store the `Panopticon-Rehearsal-Materials` folder in an easily-accessible disk location.  
 
 #### QUICK USE
-1. Find the resources contained in the folder `MIDI-rehearsal-tracks-v02.`  
+1. Find the resources contained in the folder `MIDI-rehearsal-tracks-v02`.  
 2. Use with a preferred DAW (e.g. Logic, Ableton Live, Reaper, etc.). Alternatively, iTunes or a similar app may be used, but is less convenient.  
 3. Drag-and-drop individual click tracks into your DAW. Ideal if you're woodshedding one of the parts.  
 
