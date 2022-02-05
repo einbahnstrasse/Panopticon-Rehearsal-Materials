@@ -1,6 +1,6 @@
 # Louis Goldford : Panopticon (2013) 
-## Panopticon-Rehearsal-Materials
-a repository for click tracks and other rehearsal support materials
+## _repo:_ Panopticon-Rehearsal-Materials
+_a repository for click tracks and other rehearsal support materials_
 
 #### DOWNLOAD & INSTALL
 1. Simply download the repository and unzip. 
